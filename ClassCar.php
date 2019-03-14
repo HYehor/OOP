@@ -14,7 +14,12 @@ class user
     public $name = 'Rik';
 }
 
-class work
+class fishing
 {
+   public $name;
+}
 
+class fishing1
+{
+    public $name5;
 }
